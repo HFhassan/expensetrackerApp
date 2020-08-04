@@ -34,4 +34,4 @@ jobs:
         cmd: install #npm install/yarn install
 
     - name: deploying on surge
-      run: surge ./build http://bootcampsession2hassan.surge.sh/ --token  cae30a1226d851f368ac873dbeda7e10
+      run: surge ./build http://exp_tracker.surge.sh/ --token  cae30a1226d851f368ac873dbeda7e10
